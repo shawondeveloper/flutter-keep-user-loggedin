@@ -1,4 +1,4 @@
-# shared_preferenes_login
+# Flutter keep user loggedin using shared preferences
 
 A new Flutter project.
 
